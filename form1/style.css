@@ -1,0 +1,61 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+/* background-color: gray; */
+}
+.body{
+    background-color: rgb(200, 200, 200);
+}
+.conainer-fluid{
+    display: flex;
+}
+.card{
+border: none;
+}
+.d2{
+    padding: 2.5rem;
+}
+.card-body{
+background-color: rgb(3, 57, 104);
+}
+.carousel-item img{
+   width: 90px;
+   height: 100px;
+   border-radius: 50%;
+}
+.form-check ,.form-check-input{
+border: 2px solid gray;
+
+
+}
+button{
+    border: none;
+    background-color: white;
+    display: flex;justify-content: left;
+}
+.text{
+    font-size: 18px;
+    width: 200px;
+}
+
+.inputs{
+        border: 1px solid #a3a3a3;
+        margin: 1rem 1rem 1rem 0;
+        border-radius: .4rem;
+        padding: .5em 1em .5em .5em;
+        width: 100%;
+        background: none;
+}
+
+.new3{
+    width: 400px;
+    border: 2px solid black;  
+    box-shadow: 0px 10px 10px 0px gray;  
+}
+.tex{
+    font-size: 14px;
+}
+.butt{
+  text-decoration: none;
+}
